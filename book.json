@@ -1,0 +1,37 @@
+{
+    "title": "Gitbook Autopublish Template",
+    "author": "Michael Collins",
+    "language": "en",
+    "plugins": [
+        "oerschema",
+        "video",
+        "codeblock-disable-glossary",
+        "github-edit",
+        "-sharing",
+        "toolbar"
+    ],
+    "pluginsConfig": {
+        "github-edit": {
+            "repo": "michael-collins/gitbook-autopublish-template",
+            "branch": "master"
+        },
+        "toolbar": {
+            "buttons":
+            [
+                {
+                    "label": "Download PDF",
+                    "icon": "fa fa-file-pdf-o",
+                    "url": "/gitbook-autopublish-template/exports/gitbook-autopublish-template.pdf",
+                    "target": "_blank"
+                },
+                {
+                    "label": "Download ebook",
+                    "icon": "fa fa-book",
+                    "url": "/gitbook-autopublish-template/exports/gitbook-autopublish-template.epub",
+                    "target": "_blank"
+                }
+                
+            ]
+        }
+    }
+}
