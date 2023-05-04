@@ -1,7 +1,5 @@
-# Gitbook Publishing Template
+# Introduction to Motion Capture (Rokoko)
 
-Fork the repo, write the book, publish to Git Pages. This template repo takes the labor out of hosting and publishing docs for free using open source Gitbook Legacy, Github Actions, and Github Pages.
+My name is Matthew De La Nuez, a recent Digital Multimedia Design graduate who has been using the Rokoko motion/face capture technology in Blender and Unreal Engine.In this course material there will be guidance and tutorials on using the Rokoko suits as well as motion capture tools in general. Motion capture is a powerful technology that has been used by big studios for film, games, and more for over 2 decades. This technology has now started to become more affordable and compact for smaller studios and independent artists to use such as Rokoko motion capture suits. I will be covering suit setup, Blender tutorials/workflow, and Unreal Engine tutorials/workflow but this technology can be difficult to work with especially if you're not tech literate so be aware of this. 
 
-See the [publish.md](/publish.md) file for development and publishing instructions.
 
-See [Gitbook documentation](https://michaelcollins.xyz/gitbook-legacy-documentation/en/) for advanced configuration options. The original docs are located [here](https://github.com/GitbookIO/gitbook).
