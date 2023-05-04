@@ -12,7 +12,7 @@
     ],
     "pluginsConfig": {
         "github-edit": {
-            "repo": "michael-collins/gitbook-autopublish-template",
+            "repo": "dmd-program/motion-capture",
             "branch": "master"
         },
         "toolbar": {
@@ -21,13 +21,13 @@
                 {
                     "label": "Download PDF",
                     "icon": "fa fa-file-pdf-o",
-                    "url": "/gitbook-autopublish-template/exports/gitbook-autopublish-template.pdf",
+                    "url": "/motion-capture/exports/motion-capture.pdf",
                     "target": "_blank"
                 },
                 {
                     "label": "Download ebook",
                     "icon": "fa fa-book",
-                    "url": "/gitbook-autopublish-template/exports/gitbook-autopublish-template.epub",
+                    "url": "/motion-capture/exports/motion-capture.epub",
                     "target": "_blank"
                 }
                 
