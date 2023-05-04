@@ -1,16 +1,16 @@
 ![Image of Rams' 10 principles of good design](/assets/image.jpg)
 
-# Chapter 1
+# Chapter 1 (Rokoko Setup)
 
 ## Rokoko Suit Setup
 
 When setting up the Rokoko motion capture suits the youtube setup series made by Rokoko will cover all the general setup instructions for getting started with the suits. All you need to do is download Rokoko Studio from their website and create an account. 
 
-{% video %}https://youtube.com/playlist?list=PL0nPCZDbYnms3zt1-A1cmf-S1fGyS6Rc3{% endvideo %}
+https://youtube.com/playlist?list=PL0nPCZDbYnms3zt1-A1cmf-S1fGyS6Rc3
 
 Although this covers most of the setup I will point out a few key factors that are either mentioned in the video only briefly or not at all. Firstly, the motion capture suits use 3 different sensors to be able to work properly which one in particular can be very sensitive to outside forces. This would be the magnometer which can be easily influenced by magnetic interference cause by metal beams being in walls, technology near the suit, and finally of course magnets. The studio space is an extremely poor recording space for these suits with extreme levels of magentic interference that degrade the quality of recordings. To check if a room is workablew space for the suits, download an EMF reader on your phone which will give you general reading. You should be looking for a room that reads generally 450mG's or lower but can check online with Rokoko to see if this has changed. 
 
-Second, firewall issues when connecting to your wifi router(no internet over this wifi). If you're having connection issues where your wifi settings are getting accepted but the suit still isn't showing up on the wifi then check your firewall settings. Your firewall settings should approve of what are in the images below for it to connect properly to Rokoko Studio. If it still isn't connecting to Rokoko Studio even when approving it through the firewall, turn off all connection that is to the internet and try turning off your firewall and windows security to see if it connects with them off. Make sure your computer isn't connected to the internet because your computer will have no security up during this troubleshooting process.
+Second, firewall issues when connecting to your wifi router(no internet over this wifi). If you're having connection issues where your wifi settings are getting accepted in Rokoko Studio but the suit still isn't showing up on the wifi then check your firewall settings. Your firewall settings should approve these lines of what are in the images below for it to connect properly to Rokoko Studio. If it still isn't connecting to Rokoko Studio even when approving it through the firewall, turn off all connection that is to the internet and try turning off your firewall and windows security to see if it connects with them off. Make sure your computer isn't connected to the internet because your computer will have no security up during this troubleshooting process.
 
 ![Hidden Firewall Changes](/assets/firewall1.png)
 ![Rokoko Studio Firewall](/assets/firewall2.png)
@@ -22,4 +22,4 @@ Rokoko support is based in Europe so take into consideration that they mostly op
 
 ## links
 
-Internal link 2: [Chapter 2](/pages/chapter-2.md)
+Internal link 2: [Chapter 2 (Blender)](/pages/chapter-2.md)
