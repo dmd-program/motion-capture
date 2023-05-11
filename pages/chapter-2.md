@@ -10,7 +10,7 @@ This playlist has videos covering livestreaming the motion capture from Rokoko S
 
 This second video is created by a great youtuber who has made informative rigging content. Although this video is a few years old, it covers a good workflow for cleaning up the motion capture data that comes out of Rokoko Studio. I brought up filters that help with the motion capture data within Rokoko Studio but there will always be a need to clean up the motion capture. Make sure you have a good IK rig for the motion capture data because this will determine the quality of the motion capture data in Blender as well as how easy it will be to work with. 
 
-{% video %}https://www.youtube.com/watch?v=TLdLwbi6OVE&list=PL9mwr_Jd7YzkNanOx6-W7QscOy4keaqH5{% endvideo %}
+{% video %}https://www.youtube.com/watch?v=TLdLwbi6OVE{% endvideo %}
 
 Lastly, make sure you're not running off the most recent version of Blender unless this version fixes issues for Rokoko Studio that were broken in pervious Blender builds. Too many times I have updated to the newest version of a 3D program only for Rokoko Studio to break completely or the workflow to change significantly because of a bug or new features.
 
