@@ -7,7 +7,7 @@
 When setting up the Rokoko motion capture suits the YouTube setup series made by Rokoko will cover all the general setup instructions for getting started with the suits. All you need to do is download Rokoko Studio from their website and create an account. 
 
 
-{% video %}https://youtube.com/playlist?list=PL0nPCZDbYnms3zt1-A1cmf-S1fGyS6Rc3{% endvideo %}
+
 
 {% youtube src="https://youtu.be/KW_qS-nwbbs" %}{% endyoutube %}
 
