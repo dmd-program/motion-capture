@@ -4,7 +4,6 @@
     "language": "en",
     "plugins": [
         "oerschema",
-        "video",
         "codeblock-disable-glossary",
         "github-edit",
         "-sharing",
