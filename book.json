@@ -8,7 +8,8 @@
         "github-edit",
         "-sharing",
         "toolbar",
-        "github-plugin-youtube@2.0.0"
+        "youtube"
+        
     ],
     "pluginsConfig": {
         "github-edit": {
