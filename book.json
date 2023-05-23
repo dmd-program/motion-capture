@@ -8,7 +8,7 @@
         "codeblock-disable-glossary",
         "github-edit",
         "-sharing",
-        "toolbar"
+        "toolbar",
         "youtube"
     ],
     "pluginsConfig": {
