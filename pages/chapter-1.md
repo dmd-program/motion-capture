@@ -8,11 +8,11 @@ When setting up the Rokoko motion capture suits the YouTube setup series made by
 
 
 {% video %}https://youtube.com/playlist?list=PL0nPCZDbYnms3zt1-A1cmf-S1fGyS6Rc3{% endvideo %}
+
 {% youtube src="https://youtu.be/KW_qS-nwbbs" %}{% endyoutube %}
 
-{% raw %} {% include youtube.html id="KW_qS-nwbbs" %} {% endraw %}
 
- {% include youtube.html id="KW_qS-nwbbs" %} 
+{% include youtube.html id="KW_qS-nwbbs" %} 
 
 Although this covers most of the setup, I will point out a few key factors that are either mentioned in the video only briefly or not at all. Firstly, the motion capture suits use 3 different sensors to be able to work properly which one can be very sensitive to outside forces. This would be the magnetometer which can be easily influenced by magnetic interference caused by metal beams being in walls, technology near the suit, and finally of course magnets. The studio space is an extremely poor recording space for these suits with extreme levels of magnetic interference that degrade the quality of recordings. To check if a room is workable space for the suits, download an EMF reader on your phone which will give you general reading. You should be looking for a room that reads generally 450mG's or lower but can check online with Rokoko to see if this has changed. 
 
