@@ -8,7 +8,7 @@
         "github-edit",
         "-sharing",
         "toolbar",
-        "youtube@git+https://github.com/GitbookIO/plugin-youtube.git"
+        "https://github.com/GitbookIO/plugin-youtube.git"
     ],
     "pluginsConfig": {
         "github-edit": {
