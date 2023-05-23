@@ -9,6 +9,7 @@
         "github-edit",
         "-sharing",
         "toolbar"
+        "youtube"
     ],
     "pluginsConfig": {
         "github-edit": {
