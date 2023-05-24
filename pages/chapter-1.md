@@ -9,7 +9,7 @@ When setting up the Rokoko motion capture suits the YouTube setup series made by
 
 
 
-{% youtube src="https://youtu.be/KW_qS-nwbbs" %}{% endyoutube %}
+https://youtube.com/playlist?list=PL0nPCZDbYnms3zt1-A1cmf-S1fGyS6Rc3
 
 
 
