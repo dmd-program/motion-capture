@@ -7,7 +7,7 @@ For this chapter we will cover face capture and video capture that are big featu
 Face capture on the other hand is a topic that could be expanded on greatly in complexity. The face capture in Rokoko Studio like the suits, is a powerful tool but, needs a lot of hand tuning and fixing to fully work. Plus, you will need to pay for the studio license and a face capture license to start using this technology in Rokoko Studio. There are other iPhone apps such as Unreal Engines Live Link that are completely free and can be used in Unreal Engine or another 3D program such as Blender. I would recommend a free face capture app first to see if this technology interests you because it will give you similar results to the Rokoko face capture.
 
 # Rokoko Face Capture Tutorial
-{% video %}https://youtube.com/playlist?list=PL0nPCZDbYnmsev1BwTT-gL2kBpxdUYYLO{% endvideo %}
+https://youtube.com/playlist?list=PL0nPCZDbYnmsev1BwTT-gL2kBpxdUYYLO
 
 # Rokoko Video Tutorial
-{% video %}https://youtu.be/ZpCKukrtSsU?t=1{% endvideo %}
+https://youtu.be/ZpCKukrtSsU?t=1
